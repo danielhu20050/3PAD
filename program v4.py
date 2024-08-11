@@ -20,7 +20,6 @@ def create_login_page():
 
     frame = tk.Frame(window, bg='#141414')
 
-    # Creating widgets
     login_label = tk.Label(frame, text="Login", bg='#141414', fg="#911717", font=("Arial", 30))
     login_button = tk.Button(frame, text="Login", bg="#911717", fg="#FFFFFF", font=("Arial", 16), command=login_page, width=10, height=1)
 
