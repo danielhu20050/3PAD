@@ -1,3 +1,8 @@
+'''
+Code created by Daniel Hu
+02/09/24
+This is a maths program that is designed to help people improve their arithmetic skills.
+'''
 import tkinter as tk  # Import the tkinter to create GUI.
 from tkinter import messagebox  # Import messagebox from tkinter for displaying popup messages.
 from random import randint, choice, shuffle  # Import random to generating random numbers and choices.
